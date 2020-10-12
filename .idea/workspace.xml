@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a02a729-2b5f-49e8-a3b5-e080487cc47d" name="默认的" comment="" />
+    <list default="true" id="8a02a729-2b5f-49e8-a3b5-e080487cc47d" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resume1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resume1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1igJ96CLSelMsNpIlMEdx1z2IzG" />
   <component name="ProjectViewState">
@@ -38,6 +45,9 @@
       <option name="presentableId" value="Default" />
       <updated>1602323146871</updated>
       <workItem from="1602323147908" duration="9009000" />
+      <workItem from="1602404403030" duration="3027000" />
+      <workItem from="1602471762653" duration="653000" />
+      <workItem from="1602485848259" duration="1950000" />
     </task>
     <servers />
   </component>
