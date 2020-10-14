@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a02a729-2b5f-49e8-a3b5-e080487cc47d" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/skills.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resume.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/resume1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resume1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +29,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\jirengu\resume\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\jirengu\resume\src\img" />
       <recent name="E:\jirengu\resume\src" />
       <recent name="E:\jirengu\resume" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\jirengu\resume\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +49,9 @@
       <workItem from="1602323147908" duration="9009000" />
       <workItem from="1602404403030" duration="3027000" />
       <workItem from="1602471762653" duration="653000" />
-      <workItem from="1602485848259" duration="1950000" />
+      <workItem from="1602485848259" duration="6238000" />
+      <workItem from="1602568984685" duration="3203000" />
+      <workItem from="1602638956441" duration="4633000" />
     </task>
     <servers />
   </component>
@@ -74,9 +78,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1059" y="243" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602330691538" />
-    <state x="1066" y="231" key="search.everywhere.popup" timestamp="1602328797881">
+    <state x="1066" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1602640672102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1066" y="231" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602328797881" />
+    <state x="1066" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602640672102" />
   </component>
 </project>
