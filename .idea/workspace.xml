@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a02a729-2b5f-49e8-a3b5-e080487cc47d" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/src/img/skills.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resume1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resume1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +54,17 @@
       <workItem from="1602471762653" duration="653000" />
       <workItem from="1602485848259" duration="6238000" />
       <workItem from="1602568984685" duration="3203000" />
-      <workItem from="1602638956441" duration="4633000" />
+      <workItem from="1602638956441" duration="5384000" />
+      <workItem from="1602728413209" duration="8497000" />
     </task>
+    <task id="LOCAL-00001" summary="resume修改完成">
+      <created>1602686005028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602686005029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -61,26 +73,34 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resume修改完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="resume修改完成" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1255" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602323154929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1255" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602323154929" />
+    <state x="1092" y="50" key="CommitChangelistDialog2" timestamp="1602686004414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1092" y="50" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602686004414" />
     <state x="1184" y="277" key="FileChooserDialogImpl" timestamp="1602323535886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1184" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602323535886" />
-    <state x="562" y="143" width="763" height="703" key="dock-window-1" timestamp="1602329165982">
+    <state x="270" y="0" width="734" height="660" key="dock-window-1" timestamp="1602755746445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="562" y="143" width="763" height="703" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1602329165982" />
+    <state x="270" y="0" width="734" height="660" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1602755746445" />
     <state x="1059" y="243" key="run.anything.popup" timestamp="1602330691538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1059" y="243" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602330691538" />
-    <state x="1066" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1602640672102">
+    <state x="1066" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1602745324557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1066" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602640672102" />
+    <state x="1066" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602745324557" />
   </component>
 </project>
