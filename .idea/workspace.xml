@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a02a729-2b5f-49e8-a3b5-e080487cc47d" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +50,9 @@
       <workItem from="1602485848259" duration="6238000" />
       <workItem from="1602568984685" duration="3203000" />
       <workItem from="1602638956441" duration="5384000" />
-      <workItem from="1602728413209" duration="8497000" />
+      <workItem from="1602728413209" duration="8571000" />
+      <workItem from="1602755835011" duration="84000" />
+      <workItem from="1607417198266" duration="946000" />
     </task>
     <task id="LOCAL-00001" summary="resume修改完成">
       <created>1602686005028</created>
@@ -64,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602686005029</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增模板">
+      <created>1602755785097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602755785097</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -75,17 +79,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="resume修改完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="resume修改完成" />
+    <MESSAGE value="新增模板" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增模板" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1255" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602323154929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1255" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602323154929" />
-    <state x="1092" y="50" key="CommitChangelistDialog2" timestamp="1602686004414">
+    <state x="1092" y="50" key="CommitChangelistDialog2" timestamp="1602755784460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1092" y="50" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602686004414" />
+    <state x="1092" y="50" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602755784460" />
     <state x="1184" y="277" key="FileChooserDialogImpl" timestamp="1602323535886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
